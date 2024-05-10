@@ -35,17 +35,8 @@
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
-
- <img align="left" alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Sherif-altiby&show_icons=true" />
- <img align="left" alt="my stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherif-altiby&layout=compact" />
-
-
-<br/><br/>
-
+<br/>
 <hr/>
+ <img align="left" alt="my stats" width="54%" src="https://github-readme-stats.vercel.app/api?username=Sherif-altiby&show_icons=true" />
+ <img align="left" alt="my stats" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherif-altiby&layout=compact" />
 
-<br/>
-
-<br/>
