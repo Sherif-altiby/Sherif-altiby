@@ -7,18 +7,6 @@
 <h3 align="center">A passionate Frontend developer</h3>
 
 <br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **Tailwind CSS project**
- 
- 🌱 I’m currently learning **Tailwind CSS, Vitest**
-
-💬 Ask me about **JavaScript, React... or anything [here](https://github.com/Sherif-altiby/Sherif-altiby/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
  
 <div align="center"> 
   <a href="mailto:sherifahmed852002@gmail.com">
@@ -49,7 +37,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sherif-altiby&show_icons=true)](https://github.com/Sherif-altiby/github-readme-stats&show_icons=true)
+
+ <img align="left" alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Sherif-altiby&show_icons=true" />
+ <img align="left" alt="my stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherif-altiby&layout=compact" />
+
 
 <br/><br/>
 
