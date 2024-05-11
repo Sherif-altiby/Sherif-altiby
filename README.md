@@ -26,7 +26,7 @@ needed to craft pixel-perfect, efficient, and user-friendly interfaces.</h5>
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
     
-  <a href="[https://sherif-altiby.netlify.app](https://drive.google.com/file/d/1dIX-hjO-rKAM54p7G0vwC-G9g0XpLys1/view)/" target="_blank">
+  <a href="https://drive.google.com/file/d/1dIX-hjO-rKAM54p7G0vwC-G9g0XpLys1/view/" target="_blank">
      <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=whit" target="_blank" /> 
   </a>
   
