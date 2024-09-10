@@ -26,7 +26,7 @@ needed to craft pixel-perfect, efficient, and user-friendly interfaces.</h5>
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
     
-  <a href="https://drive.google.com/file/d/1_K0Afc4c25c0F9QlTkxdqdcrtuuOGy59/view?usp=sharing" target="_blank">
+  <a href="[https://drive.google.com/file/d/1_K0Afc4c25c0F9QlTkxdqdcrtuuOGy59/view?usp=sharing](https://drive.google.com/file/d/1CjE2qJx20UVd-ZDu4AQWlfa2X2kAvT-w/view?usp=sharing)" target="_blank">
      <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=whit" target="_blank" /> 
   </a>
   
