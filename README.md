@@ -74,16 +74,6 @@ const sherif = {
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sherif-altiby&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-
-</div>
-
----
-
 <h2 align="center">📊 Contribution Graph 📊</h2>
 
 <div align="center">
