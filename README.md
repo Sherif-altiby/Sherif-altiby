@@ -4,7 +4,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sherif%20Altiby&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20UI%20Craftsman&descAlignY=55&descSize=16"/>
 
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=00F5C4&lines=Hi+There!+👋;I'm+Sherif+Altiby!;Frontend+Developer+⚛;Building+Pixel-Perfect+UIs+🎨;Always+Learning+%26+Growing+🚀" />
 
+</div>
 
 ---
 
