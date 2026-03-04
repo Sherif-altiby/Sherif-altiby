@@ -74,15 +74,14 @@ const sherif = {
 
 ---
 
-<h2 align="center">📊 Contribution Graph 📊</h2>
+<!-- <h2 align="center">📊 Contribution Graph 📊</h2>
 
 <div align="center">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sherif-altiby&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
+</div> -->
 
----
 
 <h2 align="center">🌐 Connect With Me 🌐</h2>
 
