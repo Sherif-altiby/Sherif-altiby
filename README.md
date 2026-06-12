@@ -23,7 +23,7 @@ const sherif = {
   stack: {
     frontend: ["React", "TypeScript", "Next.js", "Redux"],
     backend: ["Node.js", "Express.js"],
-    database: ["MongoDB"],
+    database: ["MongoDB", "Postgres"],
   },
   currently: "Building full stack MERN applications 🎯",
   motto: "Always learning, building, and improving 🚀"
@@ -55,7 +55,7 @@ const sherif = {
 **Database**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Postgres-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 **Styling**
 
