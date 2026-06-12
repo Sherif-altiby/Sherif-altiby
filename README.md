@@ -2,9 +2,9 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sherif-altiby.Sherif-altiby" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sherif%20Altiby&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20UI%20Craftsman&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sherif%20Altiby&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descSize=16"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=00F5C4&lines=Hi+There!+👋;I'm+Sherif+Altiby!;Frontend+Developer+⚛;Building+Pixel-Perfect+UIs+🎨;Always+Learning+%26+Growing+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=00F5C4&lines=Hi+There!+👋;I'm+Sherif+Altiby!;MERN+Stack+Developer+💻;Building+Full+Stack+Apps+🚀;Always+Learning+%26+Growing+🌱" />
 
 </div>
 
@@ -17,11 +17,15 @@
 ```javascript
 const sherif = {
   name: "Sherif Altiby",
-  role: "Frontend Developer",
+  role: "MERN Stack Developer",
   location: "Egypt 🇪🇬",
-  passions: ["Clean UI", "Great UX", "Fast Apps"],
-  stack: ["React", "TypeScript", "Next.js"],
-  currently: "Building pixel-perfect experiences 🎯",
+  passions: ["Clean UI", "Great UX", "Scalable APIs", "Fast Apps"],
+  stack: {
+    frontend: ["React", "TypeScript", "Next.js", "Redux"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB"],
+  },
+  currently: "Building full stack MERN applications 🎯",
   motto: "Always learning, building, and improving 🚀"
 };
 ```
@@ -40,6 +44,18 @@ const sherif = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 **Styling**
 
@@ -49,13 +65,14 @@ const sherif = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**State & Tools**
+**Tools & Platforms**
 
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -73,15 +90,6 @@ const sherif = {
 </div>
 
 ---
-
-<!-- <h2 align="center">📊 Contribution Graph 📊</h2>
-
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sherif-altiby&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div> -->
-
 
 <h2 align="center">🌐 Connect With Me 🌐</h2>
 
